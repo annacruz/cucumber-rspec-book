@@ -1,0 +1,1 @@
+Repositório contendo os códigos que estão no livro [Cucumber e Rspec: Construa aplicações Ruby e Rails com testes e especificações](http://www.casadocodigo.com.br/products/livro-cucumber-rspec-tdd-bdd) de Hugo Baraúna
